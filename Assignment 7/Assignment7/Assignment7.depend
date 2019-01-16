@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1510344408 source:c:\users\jcabr\onedrive\documents\compsci\assignment 7\assignment7\main.cpp
+	"SpellChecker.h"
+	"WordCounts.h"
+	<iostream>
+
+1510338655 source:c:\users\jcabr\onedrive\documents\compsci\assignment 7\assignment7\src\wordcounts.cpp
+	"WordCounts.h"
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+
+1509920431 c:\users\jcabr\onedrive\documents\compsci\assignment 7\assignment7\include\wordcounts.h
+	<iostream>
+
+1510337902 source:c:\users\jcabr\onedrive\documents\compsci\assignment 7\assignment7\src\spellchecker.cpp
+	"SpellChecker.h"
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+
+1509920433 c:\users\jcabr\onedrive\documents\compsci\assignment 7\assignment7\include\spellchecker.h
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+
